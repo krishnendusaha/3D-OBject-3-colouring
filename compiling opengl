@@ -1,0 +1,1 @@
+-lglut -lGL -lGLU -lX11 -lXmu -lXi -lm 
